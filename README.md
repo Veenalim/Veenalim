@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Veenalim
-- 👀 I’m interested in health outcomes research
-- 🌱 I'm currently immersed in real-world evidence generation using big data. This entails working with diverse datasets, including registries, home medical device data, and patient-reported survey results.
-- 💞️ If you're as excited as I am about exploring the vast landscape of healthcare data and its potential, let's collaborate! I'm always eager to work with like-minded individuals on innovative projects that drive healthcare insights.
-- 📫 Reach out to me via LinkedIn at https://www.linkedin.com/in/veenalim/ or drop me an email at veenalimjw13@gmail.com. I'm looking forward to connecting and sharing ideas!
+Hi, I’m Veenalim.
 
+- I’m a health outcomes researcher with a focus on using data to improve healthcare insights and decision-making.
+- I’m particularly interested in exploring automation tools and innovative approaches to make research processes more efficient.
+- My current work involves analysing real-world data, such as patient registries, medical device data, and survey results, to generate meaningful evidence.
+- On GitHub, I’m experimenting with ways to better analyse, visualise, and manage data.
+
+Feel free to reach out to me on LinkedIn or via email at veenalimjw13@gmail.com. I’m always happy to connect and collaborate!
 <!---
 Veenalim/Veenalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
